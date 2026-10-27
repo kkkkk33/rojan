@@ -10,7 +10,7 @@ TG_CHAT_ID="6303873752"
 # 节点配置
 TROJAN_PORT=52256
 TROJAN_PASSWORD="MyTrojanPass123"
-SNI_DOMAIN="o.c.qq.com"
+SNI_DOMAIN="o.c.163.com"
 DOH_URL="https://223.5.5.5/dns-query"
 
 # ==========================================
